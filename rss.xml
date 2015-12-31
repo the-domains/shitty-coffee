@@ -4,14 +4,14 @@
         <description><![CDATA[Shitty Coffee Co.]]></description>
         <link>https://thegrid.ai/shitty-coffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 07:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 07:05:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shitty-coffee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Grind it Right]]></title>
-            <description><![CDATA[<article><h1>Grind it Right</h1><p>Getting the most out of your coffee grinder.</p></article>]]></description>
+            <title><![CDATA[Grinder]]></title>
+            <description><![CDATA[<article><h1>Grinder</h1><p>Getting the most out of your coffee grinder.</p></article>]]></description>
             <link>https://thegrid.ai/shitty-coffee/grind-it-right/index.html</link>
             <guid isPermaLink="false">81c18e2b-8192-408d-96d9-1f5fce96a82d</guid>
-            <pubDate>Thu, 31 Dec 2015 07:02:16 GMT</pubDate>
+            <pubDate>Thu, 31 Dec 2015 07:05:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
