@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shitty Coffee]]></title>
+        <description><![CDATA[Shitty Coffee]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Dec 2015 06:12:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grind it Right]]></title>
+            <description><![CDATA[<article><h1>Grind it Right</h1><p>Getting the most out of your coffee grinder.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad9be998-4260-467b-9d9e-1b4f6f81182d.jpg"></article>]]></description>
+            <link>undefinedgrind-it-right/index.html</link>
+            <guid isPermaLink="false">81c18e2b-8192-408d-96d9-1f5fce96a82d</guid>
+            <pubDate>Thu, 31 Dec 2015 06:12:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
