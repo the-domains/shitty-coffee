@@ -1,32 +1,36 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Getting the most out of your coffee grinder.
-datePublished: '2015-12-31T06:12:45.888Z'
-dateModified: '2015-12-31T06:12:35.529Z'
+datePublished: '2015-12-31T07:02:16.015Z'
+dateModified: '2015-12-31T07:02:03.229Z'
 title: Grind it Right
 author: []
+sourcePath: _posts/2015-12-31-grind-it-right.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-31-grind-it-right.md
-published: true
 url: grind-it-right/index.html
 _type: Article
 
 ---
 A coffee can be the best thing in the world. It can open up your day to the wondrous possibilities the universe holds or puts that once loose plan for the attack of the day move mentally into a strategic operation. This can also be a sad experience if one of the many moving parts of a great cuppa coffee isn't done right.
 
-Today we're going to cover step one after opening the bag of beans. Yes, beans. We're not going to let that dude or dudette that sold you a pound of your favorite roast grind that shit down making those bits of brown gold loose not only their luster but the all important humidity that each bean holds. null
+Today we're going to cover step one after opening the bag of beans. Yes, beans. We're not going to let that dude or dudette that sold you a pound of your favorite roast grind that shit down making those bits of brown gold loose not only their luster but the all important humidity that each bean holds. 
 
-First, get you arse into a store that sells Burr quality grinders. Or if you're lazy and just want one, check out our store [here][0]. null
+null
+
+First, get you arse into a store that sells Burr quality grinders. Or if you're lazy and just want one, check out our store [here][0]. 
+
+null
 
 Here's the difference in grinds:
 
@@ -40,8 +44,6 @@ Very Fine (Turkish) - This grind is so fine it's a silty powder that makes a cof
 
 So there you have it. The basics of grinding. 
 
-Now what are you waiting for. Make another cup. null
-null
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad9be998-4260-467b-9d9e-1b4f6f81182d.jpg)
+Now what are you waiting for. Make another cup. ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2da417be81a1ef35e0e61d681831a7eb/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fad9be998-4260-467b-9d9e-1b4f6f81182d.jpg)
 
 [0]: http://amzn.to/1R0aYC4
