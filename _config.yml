@@ -1,7 +1,7 @@
 name: Shitty Coffee
 favicon: null
 layout_spectrum: 0.6270821287762374
-typography_spectrum: 0.6730010001920164
+typography_spectrum: 0.47318
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#0a0000'
+    - '#ff9b00'
+    - '#e8e8e8'
+    - '#979095'
+    - '#51462b'
   brandStrength: 0.7008659960702062
   lightness: 0.8460214091464877
   saturation: 0.3050917119253427
