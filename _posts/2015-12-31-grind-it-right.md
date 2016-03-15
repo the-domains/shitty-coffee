@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Getting the most out of your coffee grinder.
-datePublished: '2015-12-31T07:16:58.219Z'
-dateModified: '2015-12-31T07:16:45.098Z'
+datePublished: '2016-03-15T00:09:25.736Z'
+dateModified: '2016-01-24T00:01:44.057Z'
 title: Grind it Right
 author: []
 sourcePath: _posts/2015-12-31-grind-it-right.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: grind-it-right/index.html
 _type: Article
 
