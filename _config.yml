@@ -1,5 +1,8 @@
+name: Shitty Coffee Co.
+favicon: null
+layout_spectrum: 0.9731183
+typography_spectrum: 0.47318
 title: Shitty Coffee Co.
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3050917119253427
-  brandStrength: 0.7008659960702062
-  rhythmicContrast: 0.03999774996191263
   brandColors:
     - '#0a0000'
     - '#ff9b00'
     - '#e8e8e8'
     - '#979095'
     - '#51462b'
-  lightness: 0.8460214091464877
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Shitty Coffee
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.47318
-layout_spectrum: 0.9731183
+  brandStrength: 0.7008659960702062
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.03999774996191263
+purpose: []
