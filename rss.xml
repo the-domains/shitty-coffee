@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Shitty Coffee Co.]]></title>
         <description><![CDATA[Shitty Coffee Co.]]></description>
-        <link>https://thegrid.ai/shitty-coffee/</link>
+        <link>http://www.shittycoffee.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 00:09:26 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/shitty-coffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 12:17:50 GMT</lastBuildDate>
+        <atom:link href="http://www.shittycoffee.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[From our friends at The Daily Grind]]></title>
+            <description><![CDATA[<article><h1>From our friends at The Daily Grind</h1><p>There are many different ways to describe your roast grade and, while most people will be satisfied with describing it as light, medium, or dark, roasters really do need to know the all the different levels. Fortunately, there are plenty of online resources.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/febfd3128d975b4051247ffa330fec03be227fd1.jpg"></article>]]></description>
+            <link>http://www.perfectdailygrind.com/2016/06/stage-roast-video-explanation-coffee-bean-colour-change/</link>
+            <guid isPermaLink="false">12a9a4e2-d3e0-4733-8e09-b48d67681383</guid>
+            <pubDate>Fri, 10 Jun 2016 12:17:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grind it Right]]></title>
-            <description><![CDATA[<article><h1>Grind it Right</h1><p>Today we're going to cover step one after opening the bag of beans. Yes, beans. We're not going to let that dude or dudette that sold you a pound of your favorite roast grind that shit down making those bits of brown gold loose not only their luster but the all important humidity that each bean holds. </p></article>]]></description>
-            <link>https://thegrid.ai/shitty-coffee/grind-it-right/index.html</link>
+            <description><![CDATA[<p>Today we're going to cover step one after opening the bag of beans. Yes, beans. We're not going to let that dude or dudette that sold you a pound of your favorite roast grind that shit down making those bits of brown gold loose not only their luster but the all important humidity that each bean holds. </p>]]></description>
+            <link>http://www.shittycoffee.co/grind-it-right/index.html</link>
             <guid isPermaLink="false">81c18e2b-8192-408d-96d9-1f5fce96a82d</guid>
             <pubDate>Tue, 15 Mar 2016 00:09:25 GMT</pubDate>
         </item>
